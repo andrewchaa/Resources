@@ -1,5 +1,6 @@
 # .NET
 
+* [Chromely](https://github.com/mattkol/Chromely): Lightweight Alternative to Electron.NET, Electron for .NET/.NET Core
 * [Electron.NET](https://github.com/ElectronNET/Electron.NET): Build cross platform desktop apps with .NET Core 2.0 and ASP.NET NET Core.
 * [FluentValidation](https://github.com/JeremySkinner/FluentValidation): A small validation library for .NET that uses a fluent interface and lambda expressions for building validation rules
 * [Giraffe](https://github.com/giraffe-fsharp/Giraffe): A native functional ASP.NET Core web framework for F# developers.
