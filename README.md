@@ -4,6 +4,7 @@ A collection of useful resources for programming
 
 | name | for | url |
 | ---- | --- | --- |
+| [cyprus](https://www.cypress.io/) | javascript | Fast, easy and reliable testing for anything that runs in a browser |
 | [reactive x](http://reactivex.io/) | multiple languages | Reactive programming library | 
 | [chromely](https://github.com/mattkol/Chromely) | .net | Lightweight Alternative to Electron.NET, Electron for .NET/.NET Core |
 | [electron.NET](https://github.com/ElectronNET/Electron.NET) | .net | Build cross platform desktop apps with .NET Core 2.0 and ASP.NET NET Core. |
