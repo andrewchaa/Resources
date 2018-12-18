@@ -4,6 +4,7 @@ A collection of useful resources for programming
 
 | name | for | url |
 | ---- | --- | --- |
+| [azurite](https://github.com/azure/azurite) | cloud, azure | A lightweight server clone of Azure Storage that simulates most of the commands supported by it with minimal dependencies |
 | [martin fowler's event sourcing](https://martinfowler.com/eaaDev/EventSourcing.html) | design pattern | Capture all changes to an application state as a sequence of events |
 | [testdome](https://www.testdome.com) | interview | Automated Skill Testing |
 | [cyprus](https://www.cypress.io/) | javascript | Fast, easy and reliable testing for anything that runs in a browser |
