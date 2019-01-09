@@ -18,5 +18,6 @@ A collection of useful resources for programming
 | [polly](https://github.com/App-vNext/Polly) | .net | a .NET resilience and transient-fault-handling library that allows developers to express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thread-safe manner |
 | [quick Type](https://app.quicktype.io) | .net | Convert JSON string into C# or other language class |
 | [refit](https://github.com/paulcbetts/refit) | .net | The automatic type-safe REST library for .NET Core, Xamarin and .NET |
+| [markdeck](https://github.com/arnehilmann/markdeck) | presentation | presentations as code - author cool slide decks, text-only, offline-ready, collaborative |
 | [functional programming in scala](https://github.com/fpinscala/fpinscala) | scala | Code, exercises, answers, and hints to go along with the book "Functional Programming in Scala" |
 | [online test data generator](http://convertcsv.com/generate-test-data.htm) | test, data | Use this tool to generate test data in CSV or JSON format |
