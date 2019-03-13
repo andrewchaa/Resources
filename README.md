@@ -21,3 +21,4 @@ A collection of useful resources for programming
 | [markdeck](https://github.com/arnehilmann/markdeck) | presentation | presentations as code - author cool slide decks, text-only, offline-ready, collaborative |
 | [functional programming in scala](https://github.com/fpinscala/fpinscala) | scala | Code, exercises, answers, and hints to go along with the book "Functional Programming in Scala" |
 | [online test data generator](http://convertcsv.com/generate-test-data.htm) | test, data | Use this tool to generate test data in CSV or JSON format |
+| [mkcert](https://github.com/FiloSottile/mkcert) | tool | A simple zero-config tool to make locally trusted development certificates with any names you'd like. |
